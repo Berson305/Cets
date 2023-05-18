@@ -1,0 +1,27 @@
+h1 {
+    color: indianred;
+    text-align: center;
+    font-family:'Patrick Hand'
+    
+}
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+p {
+    color: cyan;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25;
+    background-color: crimson;
+}
+h3 {
+    color: crimson;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: dodgerblue;
+}
+footer {
+    width: 16%;
+}
